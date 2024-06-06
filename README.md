@@ -31,3 +31,5 @@
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elyorcode&theme=radical" alt="GitHub Streak"/>
 </div>
+
+<div style="height: 50px; background: linear-gradient(to right, #00b09b, #96c93d); margin-top: 20px;"></div>
