@@ -20,14 +20,14 @@
   <img src="https://img.shields.io/badge/Seaborn-9ACD32?style=for-the-badge&logo=seaborn&logoColor=white"/>
 </p>
 
-<h2 align="center">Interesting Numbers</h2>
+<h2 align="left">Interesting Numbers</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyorcode&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=elyorcode&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elyorcode&theme=radical" alt="GitHub Streak"/>
 </div>
