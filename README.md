@@ -22,13 +22,8 @@
 
 <h2 align="center">Interesting Numbers</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyorcode&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=elyorcode&show_icons=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elyorcode"/>
-</p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyorcode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Elyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyorcode&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elyorcode&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyorcode&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=elyorcode&show_icons=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elyorcode" alt="GitHub Streak"/>
+</div>
