@@ -22,7 +22,7 @@
 
 <h2 align="left">🌎 Bio</h2>
 
-<p align="left">Pursuing advancements in Data Science, Machine Learning, and Artificial Intelligence.</p>
+<p align="left">Dedicated to creating innovative solutions through data science, machine learning, and AI to address real-world challenges.</p>
 
 <h2 align="left">📈 Interesting Numbers</h2>
 
