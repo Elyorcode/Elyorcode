@@ -6,10 +6,6 @@
 
 <p align="center">I'm a Data Scientist who is ✨ passionate ✨ about uncovering insights and driving innovation through data. I'm making projects or learning something just about every day. Here on my GitHub you'll find my projects :)</p>
 
-<h2 align="center">Bio</h2>
-
-<p align="center">Pursuing advancements in Data Science, Machine Learning, and Artificial Intelligence.</p>
-
 <h2 align="center">Technologies and Tools</h2>
 
 <p align="center">
@@ -24,7 +20,11 @@
   <img src="https://img.shields.io/badge/Seaborn-9ACD32?style=for-the-badge&logo=seaborn&logoColor=white"/>
 </p>
 
-<h2 align="left">Interesting Numbers</h2>
+<h2 align="center">🌎 Bio</h2>
+
+<p align="center">Pursuing advancements in Data Science, Machine Learning, and Artificial Intelligence.</p>
+
+<h2 align="left">📈 Interesting Numbers</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyorcode&layout=compact&theme=radical" alt="Top Languages"/>
