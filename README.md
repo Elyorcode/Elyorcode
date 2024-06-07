@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/elyorcode">Elyor</a> 👋</h1>
 
-<p align="center">I'm a Data Scientist who is ✨ passionate ✨ about uncovering insights and driving innovation through data. I'm making projects or learning something just about every day. Here on my GitHub you'll find my projects :)</p>
+<p align="center">Data science is more than a profession for me; it's a passion. Discover my projects to see how I turn theory into practice. </p>
 
 <h2 align="center">Technologies and Tools</h2>
 
@@ -20,9 +20,9 @@
   <img src="https://img.shields.io/badge/Seaborn-9ACD32?style=for-the-badge&logo=seaborn&logoColor=white"/>
 </p>
 
-<h2 align="center">🌎 Bio</h2>
+<h2 align="left">🌎 Bio</h2>
 
-<p align="center">Pursuing advancements in Data Science, Machine Learning, and Artificial Intelligence.</p>
+<p align="left">Pursuing advancements in Data Science, Machine Learning, and Artificial Intelligence.</p>
 
 <h2 align="left">📈 Interesting Numbers</h2>
 
