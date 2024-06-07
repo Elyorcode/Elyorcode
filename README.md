@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF"/>
+</div>
+
 <h1 align="center">Hi there, I'm <a href="https://github.com/elyorcode">Elyor</a> 👋</h1>
 
 <p align="center">I'm a Data Scientist who is ✨ passionate ✨ about uncovering insights and driving innovation through data. I'm making projects or learning something just about every day. Here on my GitHub you'll find my projects :)</p>
@@ -33,5 +37,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" alt="Gradient Image"/>
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF"/>
 </div>
