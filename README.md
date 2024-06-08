@@ -56,6 +56,12 @@
   </a>
 </p>
 
+<h2 align="left">📘 Project Info</h2>
+<div align="left" style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 10px;">
+  <h3>Project Title</h3>
+  <p>This is a brief description of the project. It highlights the main goals, technologies used, and any interesting facts or accomplishments related to the project.</p>
+</div>
+
 <div align="center">
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" alt="Gradient Image"/>
 </div>
