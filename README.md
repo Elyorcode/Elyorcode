@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyorcode&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elyorcoder&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=elyorcode&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elyorcode&theme=radical" alt="GitHub Streak"/>
