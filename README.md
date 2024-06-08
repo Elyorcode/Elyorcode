@@ -49,7 +49,7 @@
 <h2 align="left">🔖 Pinned Repositories</h2>
 <p align="left">
   <a href="https://github.com/Elyorcode/VoiceGenderIdentifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elyorcode&repo=repo1&theme=radical" alt="Pinned Repository 1"/>
+    <img src="https://github.com/Elyorcode/Images/blob/master/picture%20voice%20identifier.jpg" alt="Pinned Repository 1"/>
   </a>
   <a href="https://github.com/elyorcode/repo2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=elyorcode&repo=repo2&theme=radical" alt="Pinned Repository 2"/>
