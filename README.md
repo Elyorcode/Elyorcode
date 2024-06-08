@@ -48,7 +48,7 @@
 
 <h2 align="left">🔖 Pinned Repositories</h2>
 <p align="left">
-  <a href="https://github.com/elyorcode/repo1">
+  <a href="https://github.com/Elyorcode/VoiceGenderIdentifier">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=elyorcode&repo=repo1&theme=radical" alt="Pinned Repository 1"/>
   </a>
   <a href="https://github.com/elyorcode/repo2">
