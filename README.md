@@ -46,22 +46,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=elyorcode.elyorcode" alt="Visitor Count"/>
 </div>
 
-<h2 align="left">🔖 Pinned Repositories</h2>
-<p align="left">
-  <a href="https://github.com/Elyorcode/VoiceGenderIdentifier">
-    <img src="https://github.com/Elyorcode/Images/blob/master/Image%20voice.png" alt="Pinned Repository 1"/>
-  </a>
-  <a href="https://github.com/elyorcode/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elyorcode&repo=repo2&theme=radical" alt="Pinned Repository 2"/>
-  </a>
-</p>
-
-<h2 align="left">📘 Project Info</h2>
-<div align="left" style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 10px;">
-  <h3>Project Title</h3>
-  <p>This is a brief description of the project. It highlights the main goals, technologies used, and any interesting facts or accomplishments related to the project.</p>
-</div>
-
 <div align="center">
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" alt="Gradient Image"/>
 </div>
