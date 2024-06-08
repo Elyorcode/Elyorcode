@@ -2,9 +2,9 @@
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/elyorcode">Elyor</a> <img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Wave Hand GIF" width="30"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/elyorcode">Elyor</a> <img src="https://media.giphy.com/media/hvRJCFLFzcasrR4ia7z/giphy.gif" alt="Wave Hand GIF" width="30"/></h1>
 
-<p align="left">Data science is more than a profession for me; it's a passion. Discover my projects to see how I turn theory into practice. </p>
+<p align="center">Data science is more than a profession for me; it's a passion. Discover my projects to see how I turn theory into practice. </p>
 
 <h2 align="center">Technologies and Tools</h2>
 
@@ -35,6 +35,26 @@
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elyorcode&theme=radical" alt="GitHub Streak"/>
 </div>
+
+<h2 align="left">🏆 GitHub Trophies</h2>
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=elyorcode&theme=radical" alt="GitHub Trophies"/>
+</div>
+
+<h2 align="left">👀 Visitor Count</h2>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=elyorcode.elyorcode" alt="Visitor Count"/>
+</div>
+
+<h2 align="left">🔖 Pinned Repositories</h2>
+<p align="left">
+  <a href="https://github.com/elyorcode/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elyorcode&repo=repo1&theme=radical" alt="Pinned Repository 1"/>
+  </a>
+  <a href="https://github.com/elyorcode/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elyorcode&repo=repo2&theme=radical" alt="Pinned Repository 2"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" alt="Gradient Image"/>
