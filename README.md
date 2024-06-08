@@ -2,7 +2,7 @@
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/elyorcode">Elyor</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/elyorcode">Elyor</a> <img src="https://media.giphy.com/media/hvRJCFLFzcasrR4ia7z/giphy.gif" alt="Wave Hand GIF" width="30"/></h1>
 
 <p align="center">Data science is more than a profession for me; it's a passion. Discover my projects to see how I turn theory into practice. </p>
 
