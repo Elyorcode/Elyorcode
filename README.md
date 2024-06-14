@@ -36,16 +36,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elyorcode&theme=radical" alt="GitHub Streak"/>
 </div>
 
-<h2 align="left">🏆 GitHub Trophies</h2>
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=elyorcode&theme=radical" alt="GitHub Trophies"/>
-</div>
-
-<h2 align="left">👀 Visitor Count</h2>
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=elyorcode.elyorcode" alt="Visitor Count"/>
-</div>
-
 <div align="center">
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" alt="Gradient Image"/>
 </div>
